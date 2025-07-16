@@ -1,0 +1,17 @@
+example/7.txt
+depth=2
+No1:
+Located:9,11
+Score:382
+Used time:1.298227310180664s
+
+No2:
+Located:8,11
+Score:1295
+Used time:1.2034332752227783s
+
+No3:
+Located:11,11
+Score:500295
+Used time:1.2128031253814697s
+

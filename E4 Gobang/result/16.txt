@@ -1,0 +1,17 @@
+example/16.txt
+depth=2
+No1:
+Located:6,7
+Score:75
+Used time:1.314178705215454s
+
+No2:
+Located:5,7
+Score:1008
+Used time:1.2705624103546143s
+
+No3:
+Located:8,7
+Score:500008
+Used time:1.214970588684082s
+
